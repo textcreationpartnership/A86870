@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble representation and petition of divers vvel-affected gentlemen, free holders, and others of the county of Oxon Presented to the supream authority of the nation, the Commons in Parliament Assembled, April 6. 1649. VVith the speech of Mr. Butler at the delivery of the said petition, and the speakers answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86870</idno>
+            <idno type="STC">Wing H3631</idno>
+            <idno type="STC">ESTC R229622</idno>
+            <idno type="EEBO-CITATION">99899242</idno>
+            <idno type="PROQUEST">99899242</idno>
+            <idno type="VID">152675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152675)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2313:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble representation and petition of divers vvel-affected gentlemen, free holders, and others of the county of Oxon Presented to the supream authority of the nation, the Commons in Parliament Assembled, April 6. 1649. VVith the speech of Mr. Butler at the delivery of the said petition, and the speakers answer thereunto.</title>
+                  <author>Butler, Mr., fl. 1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black-spred-Eagle at the West-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152675:1" rendition="simple:additions"/>
+            <p>The Humble REPRESENTATION AND PETITION Of divers VVel-affected Gentlemen, Free Holders, and others of the County of <hi>OXON.</hi>
+            </p>
+            <p>Preſented to the ſupream Authority of the Nation, the Commons in Parliament Aſſembled, April 6. 1649.</p>
+            <p>VVith the Speeh of Mr. <hi>Butler</hi> at the delivery of the ſaid Petition, and the Speakers Anſwer thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſpred-Eagle at the Weſt-end of Pauls,</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:152675:2"/>
+            <head>Die Veneris April 6 1649.</head>
+            <p>ORdered by the Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that the humble Repreſentation and Petiti<g ref="char:EOLhyphen"/>on of divers wel-affected Gentlemen, Free-holders, and others of the County of <hi>Oxon,</hi> be referred unto</p>
+            <list>
+               <item>Sir <hi>Arthur Haſlerig.</hi>
+               </item>
+               <item>Sir <hi>Iames Harrington.</hi>
+               </item>
+               <item>Sir <hi>Iohn Danvers.</hi>
+               </item>
+               <item>Mr. <hi>Whitlock.</hi>
+               </item>
+               <item>Mr. <hi>Humphrey Edwards.</hi>
+               </item>
+               <item>Mr. <hi>Dove.</hi>
+               </item>
+               <item>Mr. <hi>Whitacre.</hi>
+               </item>
+               <item>Mr. <hi>Say.</hi>
+               </item>
+               <item>Mr. <hi>Hypſly.</hi>
+               </item>
+               <item>Mr. <hi>Smyth.</hi>
+               </item>
+               <item>Mr. <hi>Lemmon.</hi>
+               </item>
+               <item>Mr. <hi>Iames Challenor.</hi>
+               </item>
+               <item>Mr. <hi>Thomas Challenor.</hi>
+               </item>
+               <item>Sir <hi>Thomas Wroth.</hi>
+               </item>
+               <item>Mr. <hi>Aſhe.</hi>
+               </item>
+               <item>Mr. <hi>Allen.</hi>
+               </item>
+               <item>Mr. <hi>Salway.</hi>
+               </item>
+               <item>Sir <hi>G. Northon.</hi>
+               </item>
+               <item>Alderman <hi>Wilſon.</hi>
+               </item>
+               <item>Mr. <hi>Millington.</hi>
+               </item>
+               <item>Mr. <hi>Oldſworth.</hi>
+               </item>
+               <item>Colonel <hi>Ven.</hi>
+               </item>
+               <item>Colonel <hi>Moor</hi>
+               </item>
+               <item>Lord <hi>Gray.</hi>
+               </item>
+               <item>Mr. <hi>Fenwick.</hi>
+               </item>
+               <item>Mr. <hi>Scot.</hi>
+               </item>
+               <item>Mr. <hi>Garland.</hi>
+               </item>
+               <item>Mr. <hi>Love.</hi>
+               </item>
+               <item>Mr. <hi>Maſham.</hi>
+               </item>
+               <item>Mr. <hi>Boon.</hi>
+               </item>
+               <item>Mr. <hi>Bryſſoil.</hi>
+               </item>
+               <item>Mr. <hi>Blachſtone.</hi>
+               </item>
+               <item>Mr. <hi>Pury.</hi>
+               </item>
+               <item>Mr. <hi>Weaver.</hi>
+               </item>
+               <item>Mr. <hi>Geardon.</hi>
+               </item>
+            </list>
+            <p>Or any three of them, to hear what ſhall be further preſented to them by the Petitioners, and ſuch as are authoriſed by them, and this Committee are to meet this afternoon at two of the clock in the Dutchy Chamber, and this Committe have power to look on the former Votes, and to preſent ſome way to the Houſe for reception of Miniſters to ſupply the places that are unſupplied, and to have the ſame power with the Committee for Itinerary Miniſters, Mr. &amp; <hi>Garland</hi> is to have ſpecial care hereof.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152675:2"/>
+            <head>To the Supream Authority of the Nation, the Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled.</head>
+            <head type="sub">
+               <hi>The humble Repreſentation and Petition of divers wel-affected Gentlemen, Free<g ref="char:EOLhyphen"/>houlders, and others of the County of</hi> Oxon.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat our Spirits are much revived, and our hearts raiſed up in the ſenſible apprehenſion of the good hand of God upon you, in your late and pre<g ref="char:EOLhyphen"/>ſent actings, in referrence to Com<g ref="char:EOLhyphen"/>mon Right and freedom, and for as much as your work tends to the wel-being of this
+<pb n="2" facs="tcp:152675:3"/> Common-wealth, we as members thereof, from our preſent ſence of ſome grievances in the County, City, and Univerſity of <hi>Oxford,</hi> Yet unremoved, do conceive our ſelves in duty obliged to acquaint you therewith; As namely the obſtruction and delay of Juſtice, through the corruption, and diſaffection of divers now in Commiſſion, the countenancing of, and conniving at Delinquents by ſome of our Committee men, and their Officers, the irregular proceedings of the viſitors in the Univerſity, the vio<g ref="char:EOLhyphen"/>lent endeavours of the parochiall Miniſters, to im<g ref="char:EOLhyphen"/>bitter and ſtirre up the Spirits of the people, in op<g ref="char:EOLhyphen"/>poſition to your preſent actings, and under pretence of breach of Covenant; the great &amp; intolerable bur<g ref="char:EOLhyphen"/>then of the Chancellors Arbitrary Court, in the Univerſity; the manifeſt evil of keeping many of our Laws in an unknown tongue, the great increaſe and neceſſity of the poor, the great quantity of ground of Forreſts and Parks (now belonging to the State) which lie waſt, without benefit to the publique the exemption of Colledge lands from Taxes, the want of faithfull repreſentatives for this County, to ſit in your houſe, and to repreſent theſe and other our grievances for our good; the conſideration of all which makes us to repreſent theſe our humble re<g ref="char:EOLhyphen"/>queſts and deſires, as followeth, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That all our diſaffected Juſtices may be forth<g ref="char:EOLhyphen"/>with removed, and ſuch only impowred as have and ſtill do approve themſelves faithfull to the pub<g ref="char:EOLhyphen"/>lique intereſt.</p>
+            <p n="2">2. That all our diſaffected Commiſſioners and
+<pb n="3" facs="tcp:152675:3"/> Committee men, with their officers, may alſo be re<g ref="char:EOLhyphen"/>moved, and ſuch only be intruſted as are of known fidelity, and honeſty amongſt us, and all called to an account.</p>
+            <p n="3">3. That ſuch of the viſitors appointed by Parlia<g ref="char:EOLhyphen"/>ment, as have not appeared, and acted in the late vi<g ref="char:EOLhyphen"/>ſitation of the ſaid Univerſity, according to the truſt repoſed in them, may be diſabled to ſit or act as vi<g ref="char:EOLhyphen"/>ſitors for the future, and that ſuch others as are a<g ref="char:EOLhyphen"/>ble and wel-affected, may be added to the remaining number, and that the perſons ſo to be added; may have power to review and rectifie (if there be cauſe) the procedure of the ſaid viſitors, and from time to time to act to all intents and purpoſes, as the other viſitors may or might have done.</p>
+            <p n="4">4. That ſuch Miniſters, or others, that ſhall in Preaching, Praying, or otherwiſe endeavor to diſ<g ref="char:EOLhyphen"/>content, and diſaffect the people of the Nation, in rendring your proceedings, (as to the Tryal of the late King, nulling the houſe of Lords, and others) to be a breach of Covenant, by their miſrepreſenta<g ref="char:EOLhyphen"/>tion thereof, thereby ſtirring up the people to new Engagements and Inſurrections, may by ſtrict Or<g ref="char:EOLhyphen"/>der from you, be apprehended and puniſhed as de<g ref="char:EOLhyphen"/>ceivers of the people, and diſturbers of the publike peace; and alſo that a competent number of Itine<g ref="char:EOLhyphen"/>rary Miniſters may be appointed in this County, and paid out of the publike Treaſury.</p>
+            <p n="5">
+               <pb n="6" facs="tcp:152675:4"/>5. That all Arbitrary and Tyrannical Courts in this Univerſity, or elſewhere, may be wholly taken away and aboliſhed.</p>
+            <p n="6">6. That as many of our Laws as are in an un<g ref="char:EOLhyphen"/>known tongue, may be tranſlated into Engliſh: That what are corrupt may be corrected, the evil r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pealed, the obſcure explained, and the good revi<g ref="char:EOLhyphen"/>ved.</p>
+            <p n="7">7. That all the good Laws for relief of the poor, may be duly put in execution by the ſeveral Juſti<g ref="char:EOLhyphen"/>ces, ſetting them to work, or otherwiſe providing for them, that no common begger be found amongſt us.</p>
+            <p n="8">8. That all thoſe Foreſts, Lands, and Parkes that now lie waſt, may be ſpeedily put to the beſt improvement for the uſe of the publique.</p>
+            <p n="9">9. That the wel-affected of this County, who have been always faithful to your proceedings (and none elſe) may have liberty to make choice of ſo many repreſentatives, as are wanting in this Coun<g ref="char:EOLhyphen"/>ty to ſit in the Houſe, and none but ſuch ca<g ref="char:EOLhyphen"/>pable of being choſen, that have faithfully adhered to you in all your Engagements from firſt to laſt.</p>
+            <p n="10">10. That all Colledge Lands may be taxed, and pay equally with other Lands, in all Charges and Contributions whatſoever.</p>
+            <p n="11">
+               <pb n="5" facs="tcp:152675:4"/>11. Laſtly, That you will be pleaſed to appoint ſome of your own Members to receive information from thoſe that ſhall preſent theſe our humble de<g ref="char:EOLhyphen"/>ſires, what perſons we conceive fit to be imployed and intruſted in the ſeverall places and offices before mentioned.</p>
+            <p>All which we refer to the wiſdom and Judgement of this Honourable Houſe, not doubting your ſpeedy and ſerious conſidera<g ref="char:EOLhyphen"/>tion thereof, and anſwer thereunto, being (as we conceive) of moſt neceſſary and pre<g ref="char:EOLhyphen"/>ſent concernment, which will be a further teſtimony to us, and others, of your real in<g ref="char:EOLhyphen"/>tentions and endeavors to act in all things for our publique good.</p>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:152675:5"/>
+            <head>
+               <hi>Die Veneris</hi> April. 6. 1649.</head>
+            <p>THe Houſe being informed that divers Gent. of the County of <hi>Oxford</hi> were at the dore they were called in, and after a ſhort preamble made by Mr. <hi>Butler</hi> to this effect, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>VVE are deſired from divers Gent. and wel-affected Per<g ref="char:EOLhyphen"/>ſons of the County of</hi> Oxon, <hi>to preſent both our grie<g ref="char:EOLhyphen"/>vances, and divers Requeſts unto this Honourable Houſe; Truly they are not a little ſenſible of the great bleſſing of God on them, in you &amp; your unwearied labors, love and pains, and many good fruits of your impartial Juſtice, by that remnant that God hath pleaſed to reſer<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to this day; And we may ſay, had not there been a rem<g ref="char:EOLhyphen"/>nant we had been as</hi> Sodom, <hi>and we had been as</hi> Gomorah: <hi>And we hope, as God hath preſerved you, ſo he wil ſtill preſerve and continue you faithful, and we deſire theſe grievances and requeſts may be read, and ſuch a ſpeedy and effectual Anſwer thereto, as to your wiſdom ſhall ſeem meet.</hi>
+            </p>
+            <p>
+               <hi>He delivered a Petition, which after the Petitioners were withdrawn, was read, and was intituled, The humble Repreſentati<g ref="char:EOLhyphen"/>on, and Petition of divers wel affected Gentlemen, Freeholders, and others of the County of</hi> Oxon.</p>
+            <p>
+               <hi>Reſolved &amp;c. That Mr Speaker do returne the Thanks of this Houſe unto the Petitioners.</hi>
+            </p>
+            <p>The Petitioners being again called in, Maſter Speaker by Command of the houſe, gave them this anſwer.</p>
+            <p>
+               <hi>Gentlemen, you of the County of</hi> Oxford, <hi>the Houſe hath read your Petition, and do likewiſe take notice of the diſcreet and moderate expreſſions of it, the fair and modeſt delivery of it, which they conceive did proceed from a good intention, and the matters themſelves ſhew it, and they have appointed a Committee to meet this afternoone in the Dutchy Chamber, to conſider thereof, and to heare what you ſhall farther preſent to them; many of the par<g ref="char:EOLhyphen"/>ticulars of your Petition are taken into conſideration already, o<g ref="char:EOLhyphen"/>thers will be taken into conſideration by this Committee, and the expreſſions &amp; explanations you made to me, the Houſe hath ta<g ref="char:EOLhyphen"/>ken notice of, and have commanded me to returne you hearty thanks for your good affections, and I do returne you the hearty thanks of this Houſe accordingly.</hi>
+            </p>
+            <closer>
+               <signed>Hen: Scobel Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
